@@ -1,0 +1,9 @@
+body{
+    background-color: #244441;
+}
+.back{
+    width: 100%;
+    height: 90vh;
+    background-image: url('./images/pexels-nataliya-vaitkevich-6214452.jpg');
+    background-size: cover;
+}
